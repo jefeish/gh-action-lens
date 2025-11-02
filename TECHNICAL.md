@@ -153,7 +153,7 @@ The extension supports multiple authentication methods:
 ═════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 ┌─────────────────────┬──────────────────────────────────┬────────────────────┬─────────┬─────────┬───────┐
-│ 📁 REPOSITORY       │ 📄 WORKFLOW                       │ 🔧 ACTION        │ VERSION │ COUNT   │ TOTAL │
+│ 📁 REPOSITORY       │ 📄 WORKFLOW                     │ 🔧 ACTION          │ VERSION │ COUNT   │ TOTAL │
 ├─────────────────────┼──────────────────────────────────┼────────────────────┼─────────┼─────────┼───────┤
 │ my-web-app          │ .github/workflows/ci.yml         │ actions/checkout   │ @v4     │ 2       │ 5     │
 │                     │                                  │ actions/setup-node │ @v4     │ 1       │       │
